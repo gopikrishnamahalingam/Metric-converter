@@ -16,7 +16,7 @@ body{
     padding-bottom: 10px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    color: antiquewhite;
+    color: rgb(18, 18, 18);
     text-shadow: 2px 2px 2px black;
 
 
@@ -34,7 +34,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: antiquewhite;
+    color: black;
     text-shadow: 1px 1px 1px black;
 
 }
